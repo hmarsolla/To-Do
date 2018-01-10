@@ -1,5 +1,5 @@
 var config = {
-    connectionString = ""
+    connectionString : ""
 }
 
 module.exports = {config};
